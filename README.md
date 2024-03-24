@@ -30,12 +30,19 @@ Our adventure begins with a vibrant array of visualizations, each painting a viv
 As we delve deeper into the data, patterns emerge, and stories unfold, guiding us on a quest for actionable insights and strategic recommendations. Through engaging narratives and interactive visualizations, we'll uncover the keys to Rocket Pop's brand promotion success, harnessing the power of YouTube marketing to captivate our target audience and propel our brand to new heights.
 
 1. Tree Map and Bar Chart: Picture this - a vibrant tree map bursting with color, showcasing the top-performing channels based on average view counts. As your eyes wander, you're drawn to the towering presence of Sky Sports Premier League and La Liga EA Sports, dominating the landscape with their sheer view counts. Meanwhile, our dynamic bar chart paints a vivid portrait of the YouTube universe, where these powerhouse channels reign supreme with their impressive total video counts.
+  ![image](https://github.com/Keerthidwaraka/Brand-Promotion-for-Rocket-Pop-using-Youtube-Marketing/assets/98901482/585fd50b-6e04-459b-9b7f-bdb191696d72)
+![image](https://github.com/Keerthidwaraka/Brand-Promotion-for-Rocket-Pop-using-Youtube-Marketing/assets/98901482/4fd209ba-a0e9-4c0e-bd9d-127bdd405797)
 
 2. Bubble Chart: Imagine yourself floating amidst a sea of data bubbles, each representing a YouTube channel vying for your attention. Amidst this mesmerizing display, you spot Sky Sports Premier League and TNT Sports, standing out with their remarkable average views per video. Their efficiency in captivating audiences is undeniable, making them the undisputed champions of viewer engagement.
+   ![image](https://github.com/Keerthidwaraka/Brand-Promotion-for-Rocket-Pop-using-Youtube-Marketing/assets/98901482/012ef368-5587-4e0e-9540-a2e1fcd9c105)
+
 
 3. Bar Chart: Behold the towering pillars of subscriber counts, where beIN Sports, TNT Sports Brasil, and La Liga EA Sports proudly stand as the reigning monarchs. With legions of subscribers rallying behind them, these channels command unparalleled influence in the digital realm, shaping the landscape of sports content on YouTube.
+   ![image](https://github.com/Keerthidwaraka/Brand-Promotion-for-Rocket-Pop-using-Youtube-Marketing/assets/98901482/19edc822-ed48-496f-836c-84b520bc20c9)
+
 
 4. Comparison Chart: Enter the arena of comparison, where the top channels go head-to-head in an epic showdown. Sky Sports, TNT Sports, and La Liga EA Sports emerge as the triumphant trio, dominating the global stage with their staggering average view counts, subscriber counts, and video counts. Their relentless pursuit of excellence sets them apart as the undisputed leaders in the realm of YouTube sports channels.
+   ![image](https://github.com/Keerthidwaraka/Brand-Promotion-for-Rocket-Pop-using-Youtube-Marketing/assets/98901482/848d08d5-4c9c-4aa8-a6ab-4eb883e9e363)
 
 As the dust settles and the curtains draw to a close, one thing becomes abundantly clear - in the dynamic world of YouTube sports channels, these titans reign supreme, capturing the hearts and minds of audiences worldwide.
 ## Marketing Budget Allocation
